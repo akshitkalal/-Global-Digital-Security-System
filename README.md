@@ -122,7 +122,8 @@ This is a concept document for a system that addresses the real-world problems p
 
 - **Field:** Cybersecurity + AI
 - **Year:** 1st Year Student
-- **Status:** Concept / Idea Stage
+- **Status:** Concept / Idea Stage 
+- **Name:** Akshit Kalal
 
 ---
 
